@@ -1,4 +1,4 @@
-from PyHarshit import *
+from PyHarshit import maths, utils
 
 x = maths.sum(50,50)
 print(x)
